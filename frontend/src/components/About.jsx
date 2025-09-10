@@ -1,6 +1,6 @@
 export default function About() {
   return (
-    <section id="about" className="py-20 px-6 md:px-16 bg-gray-50 text-center">
+    <section id="about" className="w-screen py-20 px-6 md:px-16 bg-gray-50 text-center">
       {/* Heading */}
       <h2 className="text-4xl md:text-5xl font-extrabold text-gray-800 mb-6">
         What is <span className="text-indigo-600">OCR?</span>

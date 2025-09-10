@@ -10,6 +10,7 @@ import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import About from "./components/About";
 import TryOCR from "./components/TryOCR";
+import Contributor from "./components/Contributor";
 
 function Home() {
   return (
@@ -18,6 +19,7 @@ function Home() {
       <Hero />
       <About />
       <TryOCR />
+      <Contributor />
     </div>
   );
 }
